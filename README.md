@@ -21,7 +21,6 @@ Watch the script in action on YouTube:
 ---
 
 ## 🖼️ Preview
-Here’s how the dialog script looks in-game:
 ![Preview](https://bytefix.eu/imgs/accident.png)
 
 ---
